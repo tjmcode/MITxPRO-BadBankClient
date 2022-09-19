@@ -62,14 +62,17 @@ STEP 8:  TBD: Host the SITE / APP and make public.</br>
 npm install
 ```
 
-* Use "npm start" command in the project folder to start the React App development environment
+* Make sure the Bad Bank Server is installed at this point and running on Port:3000
+
+* Use "npm start" command in the project folder to start the React App development environment.
+* Accept the option to use a new Port # (3001) because bad Bank Server is on Port 3000.
 ```
 npm start
 ```
 
 * Navigate your Browser to...
 ```
-localhost:3000
+localhost:3001
 ```
 * Verify standalone functionality if changes are made.
 
